@@ -1,0 +1,5 @@
+s = set()
+s.add("Ali")
+s.add("Vali")
+s.add("Sardor")
+print(s)

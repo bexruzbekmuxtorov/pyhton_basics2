@@ -1,0 +1,2 @@
+kartej = ()
+print(kartej)

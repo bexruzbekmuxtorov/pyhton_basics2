@@ -1,0 +1,2 @@
+lugat = {}
+print(lugat)
